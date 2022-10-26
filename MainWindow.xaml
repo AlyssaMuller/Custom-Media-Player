@@ -17,7 +17,7 @@
        
         <MediaElement Name="mePlayer" Grid.Row="1" LoadedBehavior="Manual" Stretch="None"/>
 
-        <Button x:Name="uploadBtn" Width="200" Height="200" Click="UploadVideo" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="Visible">
+        <Button x:Name="uploadBtn" Width="Auto" Height="Auto" Margin="0,20,0,10" Click="UploadVideo" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="Visible">
             <Image Source="/upload.png"></Image>
         </Button>
         
