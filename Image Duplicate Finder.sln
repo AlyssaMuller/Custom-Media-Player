@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image Duplicate Finder", "Image Duplicate Finder.csproj", "{D5F5B10C-DA6D-45C4-B342-AA9648E17712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5F5B10C-DA6D-45C4-B342-AA9648E17712}.Debug|x86.ActiveCfg = Debug|x86
+		{D5F5B10C-DA6D-45C4-B342-AA9648E17712}.Debug|x86.Build.0 = Debug|x86
+		{D5F5B10C-DA6D-45C4-B342-AA9648E17712}.Release|x86.ActiveCfg = Release|x86
+		{D5F5B10C-DA6D-45C4-B342-AA9648E17712}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62120D1E-45C0-4E3A-921D-1FA5F261FDA9}
+	EndGlobalSection
+EndGlobal

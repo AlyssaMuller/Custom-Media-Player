@@ -8,11 +8,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="pause.png" />
     <None Remove="play_button.png" />
     <None Remove="upload.png" />
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="pause.png" />
     <Resource Include="play_button.png" />
     <Resource Include="upload.png" />
   </ItemGroup>
